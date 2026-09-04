@@ -1,2 +1,2 @@
-# Mobile-NexGCS
-Contains release artifacts for mobile NexGCS
+# NexGCS
+Contains release artifacts for NexGCS
